@@ -1,0 +1,122 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.main-co
+{
+    width: 100%;
+    display: flex;
+    position: relative;
+    padding: left 30px; ;
+
+    
+}
+.main-co li
+{
+    display: inline;
+    position: relative;
+    left: 86px;
+    top: 12px;
+}
+.main-co h1
+{
+    color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+}
+.main-heading-title p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}   
+.main-co li a{
+    padding-left:50px ;
+    text-decoration: none;
+    color: rgb(185, 31, 31);
+    font-family: serif;
+}
+.sing-button 
+{
+    padding-left: 600px;
+    position: relative;
+    padding-top: 12px;
+}
+.sing-button a
+{
+padding: 20px;
+text-decoration: none;
+
+}
+.head-page
+{
+width: 100%;
+height: 100vh;
+}
+.header-margin
+{
+width: 100%;
+height: 6vh;
+background-color: darkblue;
+
+}
+.header-margin .main-heading-title p
+{
+display: inline;
+position: absolute;
+padding-left: 365px;
+padding-top:10px ;
+
+
+}
+.header-margin .main-heading-title  a
+{
+    position: absolute;
+    padding-top: 10px;
+    left: 800px;
+    
+    
+}
+.main-heading-title a
+{
+    color:red;
+ 
+    text-decoration: none;
+}
+.main-heading-title p
+{
+    color: white;
+}
+.heading-secound
+{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    
+}
+.image img
+{
+    width: 50%;
+    height: 80vh;
+    position: absolute;
+    z-index: -1;
+}
+.heading-secound-1
+{
+    width: 100%;
+    height: 100%;
+}
+.heading-secound-1 .he 
+{   
+    
+text-align: center;
+padding-top: 150px;
+padding-left: 600px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading-secound-1 a
+{
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.904);
+    color: white;
+
+}
